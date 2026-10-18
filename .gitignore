@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+# The installable ZIP is attached to a GitHub Release, not committed.
+dist/

@@ -1,0 +1,7 @@
+interface:
+  display_name: "digdeep"
+  short_description: "Find practical methods and verify their evidence."
+  default_prompt: "Use $digdeep to research ways to reach the outcome, verify applicability and evidence, and return the next action with coverage gaps."
+
+policy:
+  allow_implicit_invocation: true
